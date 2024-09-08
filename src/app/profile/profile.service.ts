@@ -181,10 +181,7 @@ export class ProfileService {
     },
 
   ]
-  about2 = `Software Developer with 2.5+ years of experience .
-  Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
-  Expertise in Angular 2+ All versions, React, Javascript,  Node JS and UI with Responsive Designs .
-  Have good understanding of Python, Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
+  about2 = `Diplômée en génie informatique de la Faculté des Sciences et Techniques de Settat, je suis une ingénieure d'État motivée et passionnée par les nouvelles technologies. Dotée d'une forte capacité d'apprentissage, je m'efforce constamment d'approfondir mes connaissances et de développer de nouvelles compétences afin de progresser dans mon domaine. Mon objectif est de mettre à profit mon expertise technique et ma détermination pour relever de nouveaux défis stimulants.`
 
   about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
   resumeurl = "https://docs.google.com/document/d/1WODFuhIzQw2AXPsjt6f3rs-EDWhdhT8s89fOTrGRh70/edit?usp=sharing"
@@ -258,50 +255,37 @@ Completed my Secondary school with 84%.`
   exprienceData: any = [
     {
       id: 4,
-      company: 'Crest Data System',
-      location: 'Ahmedabad',
-      timeline: 'Aug 2021 to Present',
-      role: 'Software Developer',
-      work: 'Working as a full stack developer .Responsible for handling the UI in React and Managing the api calls in python Flask.'
+      company: 'Intelcia IT Solutions',
+      location: 'Casablanca',
+      timeline: "Février 2024 jusqu'à présent ",
+      role: 'Software Engineer',
+      work: `Analyse des demandes d'évolutions domaine télécom .
+      Analyse et résolution d'anomalies et incidents .
+      Test unitaire et d'intégration des fonctionnalités.
+      `,
+      technologies:'Technologies : PLSQL'
 
     },
     {
       id: 3,
-      company: 'Indianic Info Tech',
-      location: 'Ahmedabad',
-      timeline: 'Feb 2021 to June 2021',
-      role: 'Software Developer',
-      work: `Technologies : Angular , Node JS , MongoDB .
-      Worked on the web application built in Angular for different business and Campaigns .
-      Contributed on developing the admin dashboard with different charts and insights for the application.`
+      company: 'Inteum',
+      location: 'Casablanca',
+      timeline: "Août 2023 - Octobre 2023 ",
+      role: 'Full-Stack Developer',
+      work: `
+      Projet 1:  Création des POI sur carte pour suivi GPS en temps réel .
+      Projet 2:  La gestion des besoins pour une application de surveillance des séismes à Al Haouz.`,
+      technologies:'Technologies : Spring Boot , React , MUI et Jax-rs'
     },
-  //   {
-  //     id: 2,
-  //     company: 'Growth99',
-  //     location: 'Remote',
-  //     timeline: '',
-  //     role: 'Frontend  Developer',
-  //     work: `Technologies : Angular , Node JS , MongoDB .
-  // Worked on the product of Growth99 which allowed other clients to come and integrate our product in their website .
-  // Worked on REST Api , Admin Dashboard , Appointment Booking for services and UI of the application .
-  // Created sections like templates for email, sms, landing pages, clinic, services, providers and triggers Automation.
-  // `
-  //   },
-
     {
       id: 1,
-      company: 'Tata Consultancy Services',
-      location: 'Gandhinagar and Pune',
-      timeline: 'June 2019 - Jan 2021',
-      role: 'Assistant System Engineer Trainee',
-      work: `Technologies : Angular , JavaSpring Boot , SQL. Apache Solr .
-
-  Project 1 : Worked on uploading two excel sheets with bulk of data and finding the matches for each business .
-
-  Project 2 : Worked on indexing the search results inside the application with bulk of data using Apache Solr and configuring the server with cron jobs and shell scripts .
-
-  Worked on ranking the search results based on various criteria,features and delivering the accurate results based on generated scores.
-  `
+      company: 'Tython',
+      location: 'Casablanca',
+      timeline: 'Juilet 2023 - Août 2023 ',
+      role: 'Web Developper ',
+      work: `Création d'un site web avec WordPress pour gérer l'immobilier .
+      Développement d'une application web pour gérer l'immobilier y compris les biens, les propriétaires et les clients`,
+     technologies:"Technologies :  Express Node JS et MonogoDB "
     },
 
 
